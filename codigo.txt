@@ -1,0 +1,9 @@
+public class EjemploAnalisis {
+
+int var1;
+String var2;
+boolean var3:
+
+Public static void main(String args[]){
+
+1
